@@ -1,0 +1,15 @@
+#container {
+    margin: 2% 0 0 0;
+}
+
+#form_content_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+#form_input {
+    width: 220px;
+    text-align: center;
+}

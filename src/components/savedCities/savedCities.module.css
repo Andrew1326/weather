@@ -1,0 +1,14 @@
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1% 0 2% 0;
+    flex-direction: column;
+}
+
+#saved_cities_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}

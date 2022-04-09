@@ -1,0 +1,37 @@
+#modal {
+   color: #004b29;
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#card {
+    background-color: #00b3d6;
+    width: 23rem;
+    margin: 1%;
+    border-radius: 20px;
+}
+
+#card_header {
+    text-align: center;
+}
+
+#card_footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#temp {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+#description_container {
+    text-align: center;
+}

@@ -1,0 +1,11 @@
+#offcanvas {
+    background: #00aacc;
+}
+
+input[type='radio']:hover {
+    cursor: pointer;
+}
+
+#radios_container {
+    margin-top: 5%;
+}
