@@ -1,7 +1,6 @@
 #card {
     background-color: #00b3d6;
     width: 23rem;
-    margin: 4% 1% 4% 1%;
     border-radius: 20px;
 }
 
@@ -31,4 +30,16 @@
 img {
     width: 40px;
     height: 40px;
+}
+
+/* media queries */
+@media screen and (min-width: 320px) {
+    #card {
+        margin: 4%;
+    }
+}
+@media screen and (min-width: 481px) {
+    #card {
+        margin: 1%;
+    }
 }
