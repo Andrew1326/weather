@@ -5,6 +5,7 @@ This an app for detecting current forecast
 ## Usage
 
 This an app for detecting current forecast
+
 Link: [https://weather-app-d2a09.web.app](https://weather-app-d2a09.web.app)
 
 ## Development
@@ -17,6 +18,7 @@ If you have some ideas, you can add them to this project, just make some steps:
 4. Before running open terminal and install dependencies:
 
 `cd <project-name>`
+
 `npm install`
 
 5. Before running this app, you should create account in [https://openweathermap.org](https://openweathermap.org). You should use api-key, which is located in your account. In root of cloned project create .env file and enter this line:
