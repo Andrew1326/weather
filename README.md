@@ -6,7 +6,7 @@ This an app for detecting current forecast
 
 This an app for detecting current forecast
 
-Link: [https://weather-f8848.web.app/](https://weather-f8848.web.app)
+Link: [https://weather-f8848.web.app](https://weather-f8848.web.app/)
 
 ## Development
 
